@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+model.pkl
+vectorizer.pkl
+db.sqlite3
